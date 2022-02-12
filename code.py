@@ -3,8 +3,6 @@ from tkinter.ttk import *
 import tkinter as tk
 import requests
 from bs4 import BeautifulSoup
-import bs4
-import urllib
 
 def click():
     ticker = e1.get()
